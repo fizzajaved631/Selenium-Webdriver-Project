@@ -30,14 +30,15 @@ Each module includes:
 🧾 How to Run the Tests
 
 1. Clone the repository
+   https://github.com/fizzajaved631/Selenium-Webdriver-Project.git
 
-3. Open the project in Eclipse.
+2. Open the project in Eclipse.
 
-4. Ensure Maven and TestNG are configured.
+3. Ensure Maven and TestNG are configured.
 
-5. Run test files (*.java) from the tests folder as TestNG Tests.
+4. Run test files (*.java) from the tests folder as TestNG Tests.
 
-6. View test results in the Eclipse console and reports/ folder.
+5. View test results in the Eclipse console and reports/ folder.
 
 📬 Contact
 

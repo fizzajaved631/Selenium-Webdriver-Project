@@ -30,7 +30,7 @@ Each module includes:
 🧾 How to Run the Tests
 
 1. Clone the repository
-   https://github.com/fizzajaved631/Selenium-Webdriver-Project.git
+   https://github.com/fizzajaved631/Selenium-Webdriver-Project.git 
 
 2. Open the project in Eclipse.
 
